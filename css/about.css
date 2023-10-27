@@ -1,0 +1,38 @@
+.about{
+    height: fit-content;
+    width: 100%;
+}
+.about .about-content{
+    background-image: url(../img/bmw10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+}
+.about .about-content .text-holder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    opacity: 90%;
+    width: 100%;
+    height: inherit;
+}
+.about .about-content .text-holder .text h3{
+    font-size: 6em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+.first-section .inner-section .first-inner .title h2{
+    font-size: 4em;
+    font-family: 'Times New Roman', Times, serif;
+}
+.first-section .inner-section .first-inner .body p{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.first-section .inner-section .sub-inner h3{
+    text-align: right;
+    padding-right: 5em;
+}
